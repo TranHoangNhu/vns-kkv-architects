@@ -2,8 +2,14 @@
   box-sizing: border-box;
 }
 .grid-wide h1 {
+  font-size: 2rem;
   font-weight: 700;
   text-transform: uppercase;
+  color: #262626;
+}
+.grid-wide p {
+  font-size: 1.25rem;
+  line-height: 2;
   color: #262626;
 }
 .text-center {
